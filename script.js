@@ -1,4 +1,4 @@
-document.querySelector('form').addEventListener('submit', function(event) {
-    event.preventDefault();
-    alert('Gracias por contactarnos. Pronto nos pondremos en contacto contigo.');
+// Aquí puedes añadir funcionalidad adicional con JavaScript
+document.addEventListener("DOMContentLoaded", function() {
+    console.log("Página cargada");
 });
